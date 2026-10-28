@@ -1,0 +1,31 @@
+algorithm,vm,tasks_assigned
+Random,VM1,17
+Random,VM2,20
+Random,VM3,19
+Random,VM4,21
+Random,VM5,23
+Round Robin,VM1,20
+Round Robin,VM2,20
+Round Robin,VM3,20
+Round Robin,VM4,20
+Round Robin,VM5,20
+Greedy-MCT,VM1,17
+Greedy-MCT,VM2,11
+Greedy-MCT,VM3,33
+Greedy-MCT,VM4,29
+Greedy-MCT,VM5,10
+Min-Min,VM1,20
+Min-Min,VM2,10
+Min-Min,VM3,38
+Min-Min,VM4,24
+Min-Min,VM5,8
+Max-Min,VM1,20
+Max-Min,VM2,9
+Max-Min,VM3,32
+Max-Min,VM4,29
+Max-Min,VM5,10
+GA (proposed),VM1,17
+GA (proposed),VM2,11
+GA (proposed),VM3,35
+GA (proposed),VM4,26
+GA (proposed),VM5,11
